@@ -15,5 +15,5 @@ npm start
 ```
 ## Logowanie
 Aby zalogować się do aplikacji można użyć poniższych danych logowania:
-Login: Admin
+Login: Admin <br/>
 Hasło: Admin
