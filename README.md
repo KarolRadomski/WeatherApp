@@ -14,6 +14,6 @@ npm install
 npm start
 ```
 ## Logowanie
-Aby zalogować się do aplikacji można użyć poniższych danych logowania:
+Aby zalogować się do aplikacji można użyć poniższych danych logowania:<br/>
 <b>Login:</b> Admin <br/>
-<b>Hasło:</b> Admin <br>
+<b>Hasło:</b> Admin 
